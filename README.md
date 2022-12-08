@@ -846,6 +846,7 @@ Table of Contents
   * [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which also partially [open source](https://github.com/tutao/tutanota), so you can opt to self-host.
   * [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
+  * [Fakesmail.com](https://fakesmail.com/) — Unlimited free temporary email address service with multiple domains.
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
   * [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services out of which some of them have free plans. List of services having free plans :
      - [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain.
